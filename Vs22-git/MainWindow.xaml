@@ -10,5 +10,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="238,112,0,0" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="313,132,0,0" TextWrapping="Wrap" Text="Hello Github" FontSize="50" VerticalAlignment="Top"/>
         <Rectangle Fill="Orange" Height="100" Width="100" HorizontalAlignment="Left"/>
+        <Rectangle Fill="Green" Height="100" Width="100" HorizontalAlignment="Right"/>
+        <Rectangle Fill="Blue" Height="100" Width="100" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>
