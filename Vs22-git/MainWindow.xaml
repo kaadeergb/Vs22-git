@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="238,112,0,0" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="313,132,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-
+        <TextBlock HorizontalAlignment="Left" Margin="313,132,0,0" TextWrapping="Wrap" Text="Hello Github" FontSize="50" VerticalAlignment="Top"/>
+        <Rectangle Fill="Orange" Height="100" Width="100" HorizontalAlignment="Left"/>
     </Grid>
 </Window>
