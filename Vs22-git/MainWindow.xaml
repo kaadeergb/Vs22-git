@@ -12,5 +12,6 @@
         <Rectangle Fill="Orange" Height="100" Width="100" HorizontalAlignment="Left"/>
         <Rectangle Fill="Green" Height="100" Width="100" HorizontalAlignment="Right"/>
         <Rectangle Fill="Blue" Height="100" Width="100" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+        <Rectangle Fill="Green" Height="100" Width="100" HorizontalAlignment="Right"/>
     </Grid>
 </Window>
